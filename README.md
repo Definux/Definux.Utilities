@@ -1,4 +1,3 @@
-# Definux.Utilities
-## [deprecated]
+# Definux.Utilities [deprecated]
 
 Help methods, data annotations and extensions
